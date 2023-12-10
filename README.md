@@ -20,6 +20,13 @@
   <img alt="Hashnode logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="25">
 </picture>
 
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/leen.alashkar.20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-alashkar-950173272) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366F2.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+963940568491) 
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/+963940568491) 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
