@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<h1 align = "center">Hi 🥷, I'm Leen Alashkar</h1>
+<h3 align = "center">Software Engineer | Back-End Devloper | Laravel Devloper</h3>
 
-<img align = "center"  width="100%"  height="100%" color="red" alt="Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
+
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
+<img align = "center"  width="100%"  height="100%"  alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 
 
 - 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/) || Freelancer.
@@ -12,13 +17,6 @@
 - 📫 How to reach me: Feel free to reach out to me via email at leenalashkar123@gmail.com.
 - 😄 Pronouns: She|Her
 - ⚡ Fun fact: I once hiked to the top of a volcano and roasted marshmallows over the lava flow!
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71297412/178180562-38f53e67-a31f-4c9f-b1a1-c9221703df4b.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png">
-  <img alt="Hashnode logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="25">
-</picture>
 
 
 
