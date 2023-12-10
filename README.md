@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
 
 
-<img align = "center"  width="300"   alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
+<img align = "center"  width="200"   alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 
 
 - 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/) || Freelancer.
