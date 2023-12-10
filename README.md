@@ -6,7 +6,9 @@
 
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
-<img align = "center"  width="100%"  height="100%"  alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
+
+
+<img align = "right"  width="100%"   alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 
 
 - 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/) || Freelancer.
