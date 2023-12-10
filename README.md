@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
 
 
 <img align = "center"  width="300"   alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
