@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-!<--
-**leen123/leen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+<img align = "center"  width="100%" alt="Coding" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 
 - 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/).
-<img align = "center"  width="100%" alt="Coding" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
