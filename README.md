@@ -5,7 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <img align = "center"  width="100%" alt="Coding" src="https://yorkbritishacademy.uk/img/logo-light.png?cid=6c09b952ah2vtopgwbefmqr8rk6js4ch2dhfujbs7zhq4u7u&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g"/> [York British Academy](https://yorkbritishacademy.uk/).
+- 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/).
+<img align = "center"  width="100%" alt="Coding" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
