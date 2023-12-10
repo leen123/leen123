@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/).
+- 🔭 I’m currently working on <img align = "center"  width="100%" alt="Coding" src="https://yorkbritishacademy.uk/img/logo-light.png?cid=6c09b952ah2vtopgwbefmqr8rk6js4ch2dhfujbs7zhq4u7u&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g"/> [York British Academy](https://yorkbritishacademy.uk/).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leen123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leen123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leen123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leen123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
