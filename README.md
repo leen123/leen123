@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<img align = "center"  width="100%" alt="Coding" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
+<img align = "center"  width="100%"  height="100%" alt="Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
+
 
 - 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/).
 - 🌱 I’m currently learning ...
