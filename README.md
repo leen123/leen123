@@ -8,10 +8,10 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
 
 
-<img align = "center"  width="200"   alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>
 
 
-- 🔭 I’m currently working on [York British Academy](https://yorkbritishacademy.uk/) || Freelancer.
+
+- 🔭 I’m currently working on <img align = "center"  width="25"   alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/> [York British Academy](https://yorkbritishacademy.uk/) || Freelancer.
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Software Testing
 - 🤔 I’m looking for help with developing and building systems
