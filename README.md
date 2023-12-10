@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on [<img align = "center"  width="25"  alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/> York British Academy](https://yorkbritishacademy.uk/) || Freelancer.
+- 🔭 I’m currently working on [York British Academy <img align = "center"  width="25"  alt="York Logo" src="https://yorkbritishacademy.uk/img/logo-light.png"/>](https://yorkbritishacademy.uk/).
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Software Testing
 - 🤔 I’m looking for help with developing and building systems
