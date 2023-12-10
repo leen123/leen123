@@ -59,3 +59,14 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leen123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leen123&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=leen123&label=Profile%20Views&color=10&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
